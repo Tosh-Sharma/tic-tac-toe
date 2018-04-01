@@ -1,4 +1,4 @@
-This project is a simple tic-tac-toe game made with the purpose of learning more about the ReactJS ecosystem.
+This project is a simple tic-tac-toe game made with the purpose of learning more about the ReactJS ecosystem.<br>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
